@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OnePieceQuiz</string>
+    <string name="q_1">Jimbe is a part of Straw Hats</string>
+    <string name="q_2">Katakuri lost to luffy</string>
+    <string name="q_3">Bounty of Zoro is greater than Sanji</string>
+    <string name="q_4">Dragon is gonna declare war on celestial dragons in Reverie</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="true_toast">Correct!</string>
+    <string name="false_toast">Get lost you dumb c*nt!</string>
+    <string name="next_button">next</string>
+    <string name="cheat_text_view">Do you want to cheat?</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="is_cheater">Don\'t cheat you loser</string>
+</resources>
